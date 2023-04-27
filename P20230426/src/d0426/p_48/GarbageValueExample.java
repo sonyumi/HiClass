@@ -1,4 +1,4 @@
-package p_48;
+package d0426.p_48;
 
 public class GarbageValueExample {
 

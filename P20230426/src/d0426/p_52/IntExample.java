@@ -1,4 +1,4 @@
-package p_52;
+package d0426.p_52;
 
 public class IntExample {
 

@@ -1,4 +1,4 @@
-package p_49;
+package d0426.p_49;
 
 public class CherExample {
 	public static void main(String[] args) {

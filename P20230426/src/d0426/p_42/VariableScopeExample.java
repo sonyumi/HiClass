@@ -1,4 +1,4 @@
-package p_42;
+package d0426.p_42;
 
 public class VariableScopeExample {
 
